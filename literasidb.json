@@ -1,28 +1,19 @@
 {
-  "literasi" : [
+  "caloriesi" : [
     { 
       "id": 1, 
-      "buku": "Homo Sapiens",
-      "penulis": "Yuval Noval Harari",
-      "tahun": 2016
+      "food": "Rawon", 
+      "calory": 100 
     },
     { 
       "id": 2, 
-      "buku": "Homo Deus",
-      "penulis": "Yuval Noval Harari",
-      "tahun": 2017
+      "food": "Gado-gado", 
+      "calory": 100 
     },
     { 
       "id": 3, 
-      "buku": "21 Lesson",
-      "penulis": "Yuval Noval Harari",
-      "tahun": 2018
-    },
-    { 
-     "id": 4, 
-     "buku": "Akhirat",
-     "penulis": "Yuval Noval Harari",
-      "tahun": 2019
+      "food": "Indomie", 
+      "calory": 100 
     }
   ]
 }
