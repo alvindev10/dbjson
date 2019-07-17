@@ -4,25 +4,29 @@
       "id": 1, 
       "judul": "Homo Sapiens",
       "penulis": "Yuval Noval Harari",
-      "tahun": 2016
+      "tahun": 2016,
+      "deskripsi" : "Blablabla blablabla blablabla blablablablablab balbalbalbalbal balbalbalal"
     },
     { 
       "id": 2, 
       "judul": "Homo Deus",
       "penulis": "Yuval Noval Harari",
-      "tahun": 2017
+      "tahun": 2017,
+      "deskripsi" : "Blablabla blablabla blablabla blablablablablab balbalbalbalbal balbalbalal"
     },
     { 
       "id": 3, 
       "judul": "21 Lesson",
       "penulis": "Yuval Noval Harari",
-      "tahun": 2018
+      "tahun": 2018,
+      "deskripsi" : "Blablabla blablabla blablabla blablablablablab balbalbalbalbal balbalbalal"
     },
     { 
      "id": 4, 
      "judul": "Akhirat",
      "penulis": "Yuval Noval Harari",
-     "tahun": 2019
+     "tahun": 2019,
+     "deskripsi" : "Blablabla blablabla blablabla blablablablablab balbalbalbalbal balbalbalal"
     }
   ]
 }
