@@ -6,6 +6,7 @@
       "penulis": "Yuval Noval Harari",
       "tahun": 2016,
       "deskripsi" : "Blablabla blablabla blablabla blablablablablab balbalbalbalbal balbalbalal"
+      "gambar" : "http://football-player.rf.gd/football/degea.png"
     },
     { 
       "id": 2, 
@@ -13,6 +14,7 @@
       "penulis": "Yuval Noval Harari",
       "tahun": 2017,
       "deskripsi" : "Blablabla blablabla blablabla blablablablablab balbalbalbalbal balbalbalal"
+      "gambar" : "http://football-player.rf.gd/football/degea.png"
     },
     { 
       "id": 3, 
@@ -20,6 +22,7 @@
       "penulis": "Yuval Noval Harari",
       "tahun": 2018,
       "deskripsi" : "Blablabla blablabla blablabla blablablablablab balbalbalbalbal balbalbalal"
+      "gambar" : "http://football-player.rf.gd/football/degea.png"
     },
     { 
      "id": 4, 
@@ -27,6 +30,7 @@
      "penulis": "Yuval Noval Harari",
      "tahun": 2019,
      "deskripsi" : "Blablabla blablabla blablabla blablablablablab balbalbalbalbal balbalbalal"
+     "gambar" : "http://football-player.rf.gd/football/degea.png"
     }
   ]
 }
